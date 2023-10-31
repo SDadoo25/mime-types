@@ -5,6 +5,7 @@
 [![Node.js Version][node-version-image]][node-version-url]
 [![Build Status][ci-image]][ci-url]
 [![Test Coverage][coveralls-image]][coveralls-url]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSDadoo25%2Fmime-types.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSDadoo25%2Fmime-types?ref=badge_shield)
 
 The ultimate javascript content-type utility.
 
@@ -111,3 +112,6 @@ A map of extensions by content-type.
 [npm-downloads-image]: https://badgen.net/npm/dm/mime-types
 [npm-url]: https://npmjs.org/package/mime-types
 [npm-version-image]: https://badgen.net/npm/v/mime-types
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSDadoo25%2Fmime-types.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSDadoo25%2Fmime-types?ref=badge_large)
